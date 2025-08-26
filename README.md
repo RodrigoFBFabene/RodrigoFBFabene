@@ -4,7 +4,7 @@
 
 Me chamo Rodrigo Ferreira B Fabene, tenho 19 e sou de Campinas - SP e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Unisal. Desde cedo, sou fascinado por tecnologia e encontrei na programação uma forma de transformar ideias em soluções. Aqui no GitHub, compartilho meus estudos, projetos e aprendizados ao longo da minha jornada como desenvolvedor.
 <p>
-📫 Contate me no email:rofabene1@gmail.com</p>
+📫 Email:rofabene1@gmail.com</p>
 😄 Pronouns: ele/dele
 
 ### 🤖 Linguagens e Tecnologias
